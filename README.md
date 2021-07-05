@@ -1,6 +1,11 @@
 # GazeFlow Demo
 This is a simple demo of *GazeFlow: Gaze Redirection with Normalizing Flows.*
 
+![](https://demo-1251505139.cos.ap-beijing-1.myqcloud.com/images/1_s.gif)
+![](https://demo-1251505139.cos.ap-beijing-1.myqcloud.com/images/2_s.gif)
+![](https://demo-1251505139.cos.ap-beijing-1.myqcloud.com/images/3_s.gif)
+![](https://demo-1251505139.cos.ap-beijing-1.myqcloud.com/images/4_s.gif)
+
 Colab:  [GazeFlowDemo](https://colab.research.google.com/drive/1TALhnvy6CuyzpC29mS8CShZH3mpV8AAG?usp=sharing)
 
 The offical implementation of GazeFlow will be available on: https://github.com/CVI-SZU/GazeFlow
